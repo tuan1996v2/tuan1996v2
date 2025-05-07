@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Công ty Cổ phần Phát triển Công nghệ ADA Việt Nam [Findnear](https://findnear.page.link/b8wy)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/](https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/](linkedin.com/in/tuấn-phạm-927757331)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/](https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/)
 
