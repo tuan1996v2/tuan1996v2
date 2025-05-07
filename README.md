@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on Công ty Cổ phần Phát triển Công nghệ ADA Việt Nam [Findnear](https://findnear.page.link/b8wy)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/](linkedin.com/in/tuấn-phạm-927757331)
+- 👨‍💻 All of my projects are available at [CLICK HERE](linkedin.com/in/tuấn-phạm-927757331)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/](https://www.linkedin.com/in/cody-tu%E1%BA%A5n-927757331/)
+- 📝 I regularly write articles on [CLICK HERE](linkedin.com/in/tuấn-phạm-927757331)
 
 - 💬 Ask me about **React Native, TypeScript**
 
 - 📫 How to reach me **tuan1996v2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OYZYHmCDsEqAHPVR3_f3YbDxOSJ03L7F/view?usp=sharing](https://drive.google.com/file/d/1OYZYHmCDsEqAHPVR3_f3YbDxOSJ03L7F/view?usp=sharing)
+- 📄 Know about my experiences [CLICK HERE](https://drive.google.com/file/d/1D5YvZQ3gp39DiisvUgtPDdZxWsW5GM0P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
