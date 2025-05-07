@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Công ty Cổ phần Phát triển Công nghệ ADA Việt Nam [Findnear](https://findnear.page.link/b8wy)
 
-- 👨‍💻 All of my projects are available at [CLICK HERE](linkedin.com/in/tuấn-phạm-927757331)
+- 👨‍💻 All of my projects are available at [CLICK HERE](https://linkedin.com/in/tuấn-phạm-927757331)
 
-- 📝 I regularly write articles on [CLICK HERE](linkedin.com/in/tuấn-phạm-927757331)
+- 📝 I regularly write articles on [CLICK HERE](https://linkedin.com/in/tuấn-phạm-927757331)
 
 - 💬 Ask me about **React Native, TypeScript**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cody-tuấn-927757331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cody-tuấn-927757331" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tuấn-phạm-927757331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cody-tuấn-927757331" height="30" width="40" /></a>
 <a href="https://fb.com/tuanpv1996v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpv1996v2" height="30" width="40" /></a>
 <a href="https://instagram.com/tuanpv1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanpv1996" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@tuan1842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tuan1842" height="30" width="40" /></a>
